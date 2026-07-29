@@ -10,7 +10,7 @@
 
 ## デモ
 
-![Hodoku 動作デモ](docs/demo.gif)
+https://github.com/user-attachments/assets/5ae52aae-1718-4f96-a96d-0aca78f409a9
 
 デモでは、PDFの選択・アップロードから、解析処理、結果表示までの流れを確認できます。
 
