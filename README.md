@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/5ae52aae-1718-4f96-a96d-0aca78f409a9
 ## 検証環境
 
 - URL：`https://d3tqsfxehbet1k.cloudfront.net/#/`
-- Basic認証のユーザー名とパスワード、検証用のクレジットカード情報は個別に共有します
+- Basic認証のユーザー名とパスワードは個別に共有します
 - 検証用のクレジットカード番号は「4242 4242 4242 4242」です。メールアドレス、有効期限、セキュリティコード、氏名は何でも構いません。
 
 > [!NOTE]
