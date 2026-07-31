@@ -10,7 +10,7 @@
 
 ## デモ
 
-https://github.com/user-attachments/assets/5ae52aae-1718-4f96-a96d-0aca78f409a9
+https://github.com/user-attachments/assets/9d1a6e10-ad5c-4513-b381-47fbf2fa3116
 
 デモでは、PDFの選択・アップロードから、解析処理、結果表示までの流れを確認できます。
 
